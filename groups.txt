@@ -1,3 +1,4 @@
 Daily(Default)
 Weekly
 Monthly
+Academic reading and writing
