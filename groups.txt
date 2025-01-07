@@ -7,3 +7,4 @@ Weekly
 Full Stack Developer
 C++
 Java
+Dragon Ball Legends
