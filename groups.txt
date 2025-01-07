@@ -1,4 +1,9 @@
 Daily(Default)
+Academic Reading And Writing
+Artificial Inteligence And Machine Learning
+Python
+Ethical Hacking
 Weekly
-Monthly
-Academic reading and writing
+Full Stack Developer
+C++
+Java
